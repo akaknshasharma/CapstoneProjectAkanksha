@@ -26,7 +26,3 @@ This repository contains the work of Akanksha Sharma on market and retail analys
 
 ## Author
 - **Akanksha Sharma**
-
-## License
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
-
